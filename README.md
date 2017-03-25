@@ -1,3 +1,3 @@
 # Introduction
 
-<SQL 必知必会> 笔记。
+Teach Yourseld SQL in 10 Minutes 中文版。
